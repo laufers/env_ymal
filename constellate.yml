@@ -16,5 +16,6 @@ dependencies:
   - Pillow>=9.1, <10
   - wordcloud>=1.8.1, < 2
   - spacy>=3.2.4, < 4
+  - mallet
   - pip:
     - constellate-client>= 0.0.6
